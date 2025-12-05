@@ -1282,8 +1282,10 @@
   }
 
   .card-container {
-    padding: 25px;
-    margin-top: 60px;
+    padding: 15px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .card-left,
@@ -1445,8 +1447,10 @@
   /* Card Container - Mobile Stack */
   .card-container {
     flex-direction: column;
-    padding: 25px;
+    padding: 20px;
     margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 25px;
     gap: 25px;
   }
