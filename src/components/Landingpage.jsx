@@ -75,6 +75,7 @@ function LandingPage({ onSeeAllProjects, onSeeMoreActivities }) {
       {/* 1) Hero with video (100vh) */}
       <section className="landing" id="home" data-dark="true">
         <video autoPlay loop muted playsInline className="video-bg">
+          <source src="/v22.webm" type="video/webm" />
           <source src="/v22.mp4" type="video/mp4" />
         </video>
 
