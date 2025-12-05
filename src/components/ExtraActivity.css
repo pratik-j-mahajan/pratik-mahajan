@@ -210,13 +210,15 @@
 
   .extra-info {
     width: 100%;
-    overflow: hidden;
+    overflow: visible;
   }
 
   .extra-info h3 {
     word-wrap: break-word;
     overflow-wrap: break-word;
     margin-top: 0;
+    display: block;
+    visibility: visible;
   }
 
   .extra-info p {
@@ -278,7 +280,7 @@
 
   .extra-info {
     width: 100%;
-    overflow: hidden;
+    overflow: visible;
   }
 
   .extra-info h3 {
@@ -286,6 +288,8 @@
     word-wrap: break-word;
     overflow-wrap: break-word;
     margin-top: 0;
+    display: block;
+    visibility: visible;
   }
 
   .extra-info p {
@@ -330,7 +334,7 @@
 
   .extra-info {
     width: 100%;
-    overflow: hidden;
+    overflow: visible;
   }
 
   .extra-info h3 {
@@ -338,6 +342,8 @@
     word-wrap: break-word;
     overflow-wrap: break-word;
     margin-top: 0;
+    display: block;
+    visibility: visible;
   }
 
   .extra-info p {
@@ -381,7 +387,7 @@
 
   .extra-info {
     width: 100%;
-    overflow: hidden;
+    overflow: visible;
   }
 
   .extra-info h3 {
@@ -389,6 +395,8 @@
     word-wrap: break-word;
     overflow-wrap: break-word;
     margin-top: 0;
+    display: block;
+    visibility: visible;
   }
 
   .extra-info p {
