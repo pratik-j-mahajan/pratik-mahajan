@@ -235,7 +235,7 @@ function LandingPage({ onSeeAllProjects, onSeeMoreActivities }) {
         <div className="card-grid ">
           <a href="https://github.com/pratik-j-mahajan/AI-based-SAAS" target="_blank" className="card">
             <div className="card-image">
-              <img src="/paisa+.webp" alt="paisa+" />
+              <img src="https://res.cloudinary.com/dphe5xhwj/image/upload/paisa_.webp" alt="paisa+" />
             </div>
             <h3>"Paisa+" A finance & management app </h3>
             <p>An all-in-one AI-powered platform for personal finance management featuring expense tracking, budget planning, investment insights, and automated financial reporting with smart analytics.</p>
@@ -253,7 +253,7 @@ function LandingPage({ onSeeAllProjects, onSeeMoreActivities }) {
 
           <a href="https://your-project-link2.com" target="_blank" className="card">
             <div className="card-image">
-              <img src="/krishi mitra.webp" alt="Krishi Mitra" />
+              <img src="https://res.cloudinary.com/dphe5xhwj/image/upload/krishi_mitra.webp" alt="Krishi Mitra" />
             </div>
             <h3>Krishi Mitra</h3>
             <p>Comprehensive agricultural platform connecting farmers with markets, equipment rentals, expert advice, and logistics. Features AI-powered crop recommendations and real-time marketplace for buying and selling produce.</p>
