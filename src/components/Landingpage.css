@@ -1412,10 +1412,14 @@
     background: rgb(61, 195, 213);
   }
 
-  /* Show See All Projects button on mobile with reduced margin */
-  .desktop-see-all {
+  /* Show mobile See All Projects button */
+  .mobile-see-all-container {
     display: flex !important;
-    margin-top: 2rem !important;
+  }
+
+  /* Hide desktop See All Projects button on mobile */
+  .desktop-see-all {
+    display: none !important;
   }
 
 
