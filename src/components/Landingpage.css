@@ -1380,7 +1380,7 @@
   }
 
   .overlay h1 {
-    font-size: 8rem;
+    font-size: 9rem;
     line-height: 1.1;
     text-align: center;
   }
@@ -1421,6 +1421,7 @@
     margin-bottom: 60px;
     margin-left: 15px;
     height: 12px;
+    background-color: #4da6ff;
   }
 
   .hero-content-wrapper {
