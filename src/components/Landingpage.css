@@ -642,6 +642,9 @@
   box-shadow: #00000025 0px 3px 6px;
   position: relative;
   z-index: 100;
+  display: block;
+  visibility: visible;
+  opacity: 1;
 }
 
 .cta-button-card:hover {
