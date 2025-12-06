@@ -1380,8 +1380,8 @@
   }
 
   .overlay h1 {
-    font-size: 9rem;
-    line-height: 1.1;
+    font-size: 10rem;
+    line-height: 1;
     text-align: center;
   }
 
@@ -1392,6 +1392,9 @@
   .overlay h3 {
     font-size: 1.8rem;
     margin-bottom: 1rem;
+    text-align: left;
+    align-self: flex-start;
+    margin-left: 20px;
   }
 
   /* Glass Box - Mobile Optimized */
