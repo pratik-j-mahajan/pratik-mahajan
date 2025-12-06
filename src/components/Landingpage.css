@@ -657,6 +657,15 @@
   border: 2px solid #eaeaea;
 }
 
+/* Mobile See All Projects Button */
+.mobile-see-all-container {
+  display: none;
+  justify-content: center;
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
+
 /* Removed experimental subgrid/layer animations to restore static grid */
 
 
@@ -1402,6 +1411,17 @@
   .video-grid-section {
     background: rgb(61, 195, 213);
   }
+
+  /* Show mobile See All Projects button */
+  .mobile-see-all-container {
+    display: flex;
+  }
+
+  /* Hide desktop See All Projects button */
+  div[style*="marginTop: \"3rem\""] {
+    display: none !important;
+  }
+
 
   /* Glass Box - Mobile Optimized */
   .box {

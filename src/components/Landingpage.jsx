@@ -300,6 +300,14 @@ function LandingPage({ onSeeAllProjects, onSeeMoreActivities }) {
             </div>
           </a>
         </div>
+        <div className="mobile-see-all-container">
+          <button
+            className="cta-button-card"
+            onClick={() => onSeeAllProjects && onSeeAllProjects()}
+          >
+            See All Projects
+          </button>
+        </div>
         <div style={{ display: "flex", justifyContent: "center", marginTop: "3rem", position: "relative", zIndex: 100 }}>
           <button
             id="seeall"
