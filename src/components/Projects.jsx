@@ -7,14 +7,14 @@ function Projects({ onBack }) {
   const projects = [
     {
       title: "Paisa+ A Finance & Management App",
-      img: "https://res.cloudinary.com/dphe5xhwj/image/upload/paisa_.webp",
+      img: "/paisa+.webp",
       desc: "An all-in-one AI-powered platform for personal finance management featuring expense tracking, budget planning, investment insights, and automated financial reporting with smart analytics.",
       link: "https://github.com/pratik-j-mahajan/AI-based-SAAS",
       skills: ["/react.png", "/nodejs.png", "/tailwind1.png", "/sql.png", "/figma.png"]
     },
     {
       title: "Krishi Mitra",
-      img: "https://res.cloudinary.com/dphe5xhwj/image/upload/krishi_mitra.webp",
+      img: "/krishi mitra.webp",
       desc: "Comprehensive agricultural platform connecting farmers with markets, equipment rentals, expert advice, and logistics. Features AI-powered crop recommendations and real-time marketplace for buying and selling produce.",
       link: "#",
       skills: ["/react.png", "/js.png", "/typescript.png", "/nodejs.png", "/mongodb.png", "/next.png", "/gemini.png"],
