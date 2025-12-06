@@ -1380,8 +1380,9 @@
   }
 
   .overlay h1 {
-    font-size: 7rem;
+    font-size: 8rem;
     line-height: 1.1;
+    text-align: center;
   }
 
   .mobile-break {
