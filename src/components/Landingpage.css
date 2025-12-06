@@ -1418,7 +1418,7 @@
   }
 
   /* Hide desktop See All Projects button */
-  div[style*="marginTop: \"3rem\""] {
+  .desktop-see-all {
     display: none !important;
   }
 

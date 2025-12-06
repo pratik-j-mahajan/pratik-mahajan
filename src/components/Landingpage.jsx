@@ -308,7 +308,7 @@ function LandingPage({ onSeeAllProjects, onSeeMoreActivities }) {
             See All Projects
           </button>
         </div>
-        <div style={{ display: "flex", justifyContent: "center", marginTop: "3rem", position: "relative", zIndex: 100 }}>
+        <div className="desktop-see-all" style={{ display: "flex", justifyContent: "center", marginTop: "3rem", position: "relative", zIndex: 100 }}>
           <button
             id="seeall"
             className="cta-button-card"
