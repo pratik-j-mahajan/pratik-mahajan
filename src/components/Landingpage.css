@@ -1414,7 +1414,11 @@
 
   /* Show mobile See All Projects button */
   .mobile-see-all-container {
-    display: flex;
+    display: flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: relative;
+    z-index: 1000;
   }
 
   /* Hide desktop See All Projects button */
