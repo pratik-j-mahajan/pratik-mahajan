@@ -7,14 +7,14 @@ function Projects({ onBack }) {
   const projects = [
     {
       title: "Paisa+ A Finance & Management App",
-      img: "/paisa+.webp",
+      img: "https://res.cloudinary.com/dphe5xhwj/image/upload/v1765008353/paisa_rqy4vi.webp",
       desc: "An all-in-one AI-powered platform for personal finance management featuring expense tracking, budget planning, investment insights, and automated financial reporting with smart analytics.",
       link: "https://github.com/pratik-j-mahajan/AI-based-SAAS",
       skills: ["/react.png", "/nodejs.png", "/tailwind1.png", "/sql.png", "/figma.png"]
     },
     {
       title: "Krishi Mitra",
-      img: "/krishi mitra.webp",
+      img: "https://res.cloudinary.com/dphe5xhwj/image/upload/v1765008355/krishi_mitra_cuaclb.webp",
       desc: "Comprehensive agricultural platform connecting farmers with markets, equipment rentals, expert advice, and logistics. Features AI-powered crop recommendations and real-time marketplace for buying and selling produce.",
       link: "#",
       skills: ["/react.png", "/js.png", "/typescript.png", "/nodejs.png", "/mongodb.png", "/next.png", "/gemini.png"],
@@ -36,7 +36,7 @@ function Projects({ onBack }) {
     },
     {
       title: "Pareto Based Optimization",
-      img: "/pareto.webp",
+      img: "https://res.cloudinary.com/dphe5xhwj/image/upload/v1765008350/pareto_y3grxx.webp",
       desc: "Advanced optimization algorithm implementation using Pareto principles.",
       link: "https://pareto-based-analysis-app.streamlit.app/",
       skills: ["/react.png", "/js.png", "/python.png", "/css.png", "/html.png"],

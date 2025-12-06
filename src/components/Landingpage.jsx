@@ -80,7 +80,7 @@ function LandingPage({ onSeeAllProjects, onSeeMoreActivities }) {
 
         <div className="overlay">
           <h3>Hello I’m...</h3>
-          <h1>Pratik Mahajan</h1>
+          <h1>Pratik <br className="mobile-break" />Mahajan</h1>
           <div className="box">
             <p className="box-p">Student | Web-Developer | Analyst | Digital Marketing</p>
           </div>
@@ -235,7 +235,7 @@ function LandingPage({ onSeeAllProjects, onSeeMoreActivities }) {
         <div className="card-grid ">
           <a href="https://github.com/pratik-j-mahajan/AI-based-SAAS" target="_blank" className="card">
             <div className="card-image">
-              <img src="/paisa+.webp" alt="paisa+" />
+              <img src="https://res.cloudinary.com/dphe5xhwj/image/upload/v1765008353/paisa_rqy4vi.webp" alt="paisa+" />
             </div>
             <h3>"Paisa+" A finance & management app </h3>
             <p>An all-in-one AI-powered platform for personal finance management featuring expense tracking, budget planning, investment insights, and automated financial reporting with smart analytics.</p>
@@ -253,7 +253,7 @@ function LandingPage({ onSeeAllProjects, onSeeMoreActivities }) {
 
           <a href="https://your-project-link2.com" target="_blank" className="card">
             <div className="card-image">
-              <img src="/krishi mitra.webp" alt="Krishi Mitra" />
+              <img src="https://res.cloudinary.com/dphe5xhwj/image/upload/v1765008355/krishi_mitra_cuaclb.webp" alt="Krishi Mitra" />
             </div>
             <h3>Krishi Mitra</h3>
             <p>Comprehensive agricultural platform connecting farmers with markets, equipment rentals, expert advice, and logistics. Features AI-powered crop recommendations and real-time marketplace for buying and selling produce.</p>

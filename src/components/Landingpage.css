@@ -48,6 +48,10 @@
   font-family: "Poppins", sans-serif;
 }
 
+.mobile-break {
+  display: none;
+}
+
 .box {
 
   display: flex;
@@ -1376,8 +1380,12 @@
   }
 
   .overlay h1 {
-    font-size: 6rem;
+    font-size: 7rem;
     line-height: 1.1;
+  }
+
+  .mobile-break {
+    display: inline;
   }
 
   .overlay h3 {
