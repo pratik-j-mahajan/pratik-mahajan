@@ -1396,7 +1396,11 @@
   }
 
   .headline {
-    background-color: #4da6ff;
+    background-color: rgb(61, 195, 213);
+  }
+
+  .video-grid-section {
+    background: rgb(61, 195, 213);
   }
 
   /* Glass Box - Mobile Optimized */
