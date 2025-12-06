@@ -1412,19 +1412,12 @@
     background: rgb(61, 195, 213);
   }
 
-  /* Show mobile See All Projects button */
-  .mobile-see-all-container {
+  /* Show See All Projects button on mobile with reduced margin */
+  .desktop-see-all {
     display: flex !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    position: relative;
-    z-index: 1000;
+    margin-top: 2rem !important;
   }
 
-  /* Hide desktop See All Projects button */
-  .desktop-see-all {
-    display: none !important;
-  }
 
 
   /* Glass Box - Mobile Optimized */
