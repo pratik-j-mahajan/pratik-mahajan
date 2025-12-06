@@ -1392,9 +1392,11 @@
   .overlay h3 {
     font-size: 1.8rem;
     margin-bottom: 1rem;
-    text-align: left;
-    align-self: flex-start;
-    margin-left: 20px;
+    text-align: center;
+  }
+
+  .headline {
+    background-color: #4da6ff;
   }
 
   /* Glass Box - Mobile Optimized */
@@ -1424,7 +1426,6 @@
     margin-bottom: 60px;
     margin-left: 15px;
     height: 12px;
-    background-color: #4da6ff;
   }
 
   .hero-content-wrapper {
